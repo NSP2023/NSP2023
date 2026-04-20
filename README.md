@@ -1,5 +1,5 @@
 # 👾 Hey there! I'm Promitee (NSP2023)
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> *Yes, I do wave back.*
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> *Hello !*
 
 > **"If it can be built, I'll build it. If it can be automated, I'll automate it. If it moves, I'll probably put a robot in it."** 🤖
 
