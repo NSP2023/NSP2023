@@ -67,10 +67,10 @@
 
 ## 📫 Connect With Me
 💼 GitHub: https://github.com/NSP2023  
-📧 Email: (add your email here if you want)  
+📧 Email: noshinsyara@iut-dhaka.edu
 🌍 Open to collaboration on AI, robotics & software projects  
 
 ---
 
 ## ⚡ Fun Fact
-I enjoy turning ideas into real systems — especially where software meets hardware 🤖✨
+I enjoy turning ideas into real systems !
