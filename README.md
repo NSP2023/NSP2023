@@ -1,100 +1,129 @@
-# 👾 Hey there! I'm Promitee (NSP2023)
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> *Hello !*
+<!-- 🌌 HERO BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F7FF&height=250&section=header&text=Promitee%20(NSP2023)&fontSize=40&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
+</p>
 
-> **"If it can be built, I'll build it. If it can be automated, I'll automate it. If it moves, I'll probably put a robot in it."** 🤖
-
-I'm a **Computer Science & Engineering** student on a mission to blur the line between software and hardware. By day — code. By night — also code, but with robots 🦾.
-
----
-
-## 🎯 The Grand Plan
-🔬 Become a **Robot Researcher**  
-🌍 Work on tech that actually *changes* how humans and machines interact  
-⚡ Build things that make people go *"wait, how did she do that??"*
+<!-- 👾 TYPING INTRO -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Future+Robot+Researcher+🤖;Full+Stack+Developer+💻;AI+%2B+Hardware+Explorer+⚡;I+build+things+that+move+🚀"/>
+</p>
 
 ---
 
-## 🌱 Currently Leveling Up In...
+# 🧠 About Me
 
-| 🔧 Skill | 📊 Status |
-|---|---|
-| JavaFX Application Dev | 🟩🟩🟩🟩⬜ Progressing |
-| Unreal Engine 🎮 | 🟩🟩🟩⬜⬜ Getting spicy |
-| React.js Frontend | 🟩🟩🟩🟩⬜ Almost dangerous |
-| Python Automation | 🟩🟩🟩🟩🟩 Send help |
-| AI & Robotics 🤖 | 🟩🟩⬜⬜⬜ Just getting started (and obsessed) |
+```diff
++ CSE Student | Builder | Problem Solver
+```
 
----
+I design and build systems that connect **software + hardware**.  
+From **AI applications** to **robotics experiments**, I focus on:
 
-## 🛠️ My Weapons of Choice
-
-### 💡 Languages I Speak (to computers)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-### 🌐 Web & Frameworks
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-### 🗄️ Tools I Actually Use (and sometimes argue with)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+> Making technology *do something real*
 
 ---
 
-## 🚀 Things I've Built (and am proud of)
+# ⚡ Tech Stack
 
-| Project | What it does | Vibe |
-|---|---|---|
-| 🏏 **Cricket Simulator** | Unreal Engine cricket game. Wickets may have been harmed. | 🎮 Pure fun |
-| 📦 **Donation Management System** | Food & goods distribution platform that actually helps people | 💙 For good |
-| 🔍 **Missing Person Finder** | JavaFX app that helps locate missing individuals | 🫶 Meaningful |
-| ⏱️ **Pomodoro Timer** | Because even coders need breaks (I keep ignoring mine) | 🍅 Productivity |
-| 🤖 **Arduino Robotics** | Embedded systems experiments. It moved. I screamed. | 🔬 Science! |
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,django,unreal,mysql,git" />
+</p>
 
 ---
 
-## 📊 My GitHub in Numbers
+# 🚀 Featured Projects
 
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=NSP2023&show_icons=true&theme=tokyonight)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NSP2023&layout=compact&theme=tokyonight)
-
-</div>
+### 🧠 Reality-Check AI (Deepfake Detection)
+> AI-powered system to detect manipulated media and identify deepfakes  
+> Focused on real-world misinformation and digital safety  
 
 ---
 
-## 📫 Let's Build Something Together
-
-| Where | Link |
-|---|---|
-| 💼 GitHub | [github.com/NSP2023](https://github.com/NSP2023) |
-| 📧 Email | noshinsyara@iut-dhaka.edu
-
-> 🤝 **Open to collaboration** on AI, robotics, games & software projects. If your idea sounds ridiculous enough, I'm probably in.
+### 💻 Frontend Development Coursework
+> Collection of responsive UI projects using modern web technologies  
+> Focus on clean design, usability, and component-based architecture  
 
 ---
 
-## ⚡ Fun Facts About Me
-
-- 🤖 I get unreasonably excited when hardware and software actually *talk to each other*
-- 🏏 I'm building a cricket game, so yes — I take sports *and* code seriously
-- 🔧 My debugging strategy: stare at it until it works (it works more than you'd think)
-- 🌙 Best ideas come after midnight. Future me apologizes in advance.
-- 🚀 I don't just write code — I build **systems that do things in the real world**
+### 🏏 Cricket Simulator
+> Unreal Engine-based cricket game with core gameplay mechanics  
+> Interactive physics + gameplay logic implementation  
 
 ---
 
-<div align="center">
+### 💙 Donation Management System
+> Platform for distributing food & goods efficiently  
+> Designed for real-world social impact  
 
-*Thanks for stopping by! Now go build something cool.* 🛠️✨
+---
 
-</div>
+### 🔍 Missing Person Finder
+> JavaFX-based application for locating missing individuals  
+> Includes data tracking and search functionality  
+
+---
+
+### ⏱️ Pomodoro Timer
+> Smart productivity timer with dynamic UI and session control  
+
+---
+
+### 🤖 Arduino Robotics
+> Embedded system experiments where software interacts with hardware  
+> Real-world motion, sensors, and control systems  
+
+---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NSP2023&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F7FF&icon_color=00F7FF"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NSP2023&theme=tokyonight&hide_border=true&ring=00F7FF&fire=00F7FF"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSP2023&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+# 🌌 Contribution Universe
+
+<p align="center">
+  <img src="https://github-profile-3d-contrib.vercel.app/api?username=NSP2023&theme=tokyonight" />
+</p>
+
+---
+
+# 🐍 Activity Animation
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=NSP2023&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
+</p>
+
+---
+
+# 📫 Contact
+
+<p align="center">
+  <a href="https://github.com/NSP2023">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+  </a>
+  <a href="mailto:noshinsyara@iut-dhaka.edu">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  ✨ *Now it actually looks like a portfolio. Keep building.* 🚀
+</p>
