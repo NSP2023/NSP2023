@@ -94,11 +94,10 @@
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
----
-# 👁️ SYSTEM MONITOR
+#  SYSTEM MONITOR
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=2000&color=00F7FF&center=true&vCenter=true&width=400&lines=Tracking+Visitors...;Scanning+Profile...;Access+Granted+⚡"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=2000&color=00F7FF&center=true&vCenter=true&width=400&lines=Tracking+Visitors...;Scanning+Profile...;Access+Granted"/>
 </p>
 
 <p align="center">
