@@ -88,20 +88,22 @@
 
 ---
 
-# Activity Animation
+# Activity 
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
+# 👁️ SYSTEM MONITOR
 
-# Profile Views
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=16&duration=2000&color=00F7FF&center=true&vCenter=true&width=400&lines=Tracking+Visitors...;Scanning+Profile...;Access+Granted+⚡"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NSP2023&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
 </p>
-
 ---
 
 # Contact
