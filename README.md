@@ -5,7 +5,7 @@
 
 <!-- 👾 TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Future+Robot+Researcher+🤖;Full+Stack+Developer+💻;AI+%2B+Hardware+Explorer+⚡;I+build+things+that+move+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Future+Robot+Researcher+🤖;Frontend+Developer+💻;AI+%2B+Hardware+Explorer+⚡;I+build+things+that+move+🚀"/>
 </p>
 
 ---
@@ -13,10 +13,10 @@
 # 🧠 About Me
 
 ```diff
-+ CSE Student | Builder | Problem Solver
++ CSE Student | Builder | Dreamer
 ```
 
-I design and build systems that connect **software + hardware**.  
+I design and build systems that'smainly  connect **software**.  
 From **AI applications** to **robotics experiments**, I focus on:
 
 > Making technology *do something real*
@@ -83,14 +83,6 @@ From **AI applications** to **robotics experiments**, I focus on:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NSP2023&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🌌 Contribution Universe
-
-<p align="center">
-  <img src="https://github-profile-3d-contrib.vercel.app/api?username=NSP2023&theme=tokyonight" />
 </p>
 
 ---
