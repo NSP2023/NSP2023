@@ -1,6 +1,6 @@
 <!-- 🌌 HERO BANNER -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F7FF&height=250&section=header&text=Promitee%20(NSP2023)&fontSize=40&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:00F7FF&height=250&section=header&text=Noshin%20Syara%20Promitee%20(NSP2023)&fontSize=40&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
 </p>
 
 <!-- 👾 TYPING INTRO -->
