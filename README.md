@@ -115,7 +115,3 @@ From **AI applications** to **robotics experiments**, I focus on:
 </p>
 
 ---
-
-<p align="center">
-  ✨ *Now it actually looks like a portfolio. Keep building.* 🚀
-</p>
