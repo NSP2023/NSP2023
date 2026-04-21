@@ -11,11 +11,11 @@
 ---
 # About Me
 
-🎓 3rd Year Computer Science & Engineering Student  
-⚙️ Passionate about building **scalable applications** and real-world systems  
-⚙️  Strong interest in **AI, robotics, and system design**  
-⚙️ Experienced in **web development, game dev, and embedded systems**  
-⚙️  Always learning and exploring new technologies & architectures  
+>🎓 3rd Year Computer Science & Engineering Student  
+>⚙️ Passionate about building **scalable applications** and real-world systems  
+>⚙️  Strong interest in **AI, robotics, and system design**  
+>⚙️ Experienced in **web development, game dev, and embedded systems**  
+>⚙️  Always learning and exploring new technologies & architectures  
 ---
 
 # Tech Stack
