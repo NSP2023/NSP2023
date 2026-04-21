@@ -10,17 +10,13 @@
 
 ---
 
-# 🧠 About Me
+# 🚀 About Me
 
-```diff
-+ CSE Student | Builder | Dreamer
-```
-
-I design and build systems that'smainly  connect **software**.  
-From **AI applications** to **robotics experiments**, I focus on:
-
-> Making technology *do something real*
-
+🎓 3rd Year Computer Science & Engineering Student  
+💻 Passionate about building **scalable full-stack applications** and real-world systems  
+🧠 Strong interest in **AI, robotics, and system design**  
+⚙️ Experienced in **web development, game dev, and embedded systems**  
+🌱 Always learning and exploring new technologies & architectures  
 ---
 
 # ⚡ Tech Stack
@@ -28,6 +24,12 @@ From **AI applications** to **robotics experiments**, I focus on:
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,django,unreal,mysql,git" />
 </p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
+</p>
+
 
 ---
 
