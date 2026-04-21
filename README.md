@@ -18,7 +18,7 @@
 ⚙️  Always learning and exploring new technologies & architectures  
 ---
 
-#Tech Stack
+# Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,python,java,js,react,django,unreal,mysql,git" />
