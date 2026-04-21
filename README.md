@@ -10,13 +10,72 @@
 
 ---
 
-# 🚀 About Me
+# 🧬 ABOUT.EXE
 
-🎓 3rd Year Computer Science & Engineering Student  
-💻 Passionate about building **scalable full-stack applications** and real-world systems  
-🧠 Strong interest in **AI, robotics, and system design**  
-⚙️ Experienced in **web development, game dev, and embedded systems**  
-🌱 Always learning and exploring new technologies & architectures  
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=18&duration=2500&color=00F7FF&center=true&vCenter=true&width=500&lines=Initializing+Profile...;Loading+Systems...;Welcome+to+Promitee's+World+⚡"/>
+</p>
+
+---
+
+```diff
++ STATUS: ACTIVE
++ MODE: BUILDER
++ FOCUS: AI | ROBOTICS | SYSTEMS
+```
+
+---
+
+## 👾 USER_PROFILE
+
+🎓 **CSE Student**  
+💻 Architect of **full-stack systems & interactive applications**  
+🤖 Exploring the intersection of **AI + real-world machines**  
+⚙️ Building across **software, games, and embedded systems**  
+🌱 Constantly upgrading skills & pushing system limits  
+
+---
+
+## ⚡ CORE_DIRECTIVE
+
+> Build systems that don’t just run —  
+> but **interact, adapt, and evolve**
+
+---
+
+## 🧠 CURRENT_PROTOCOLS
+
+```yaml
+learning:
+  - Artificial Intelligence
+  - Robotics Systems
+  - System Design
+
+building:
+  - Real-world applications
+  - Game environments
+  - Hardware-integrated solutions
+
+goal:
+  - Become a Robot Researcher
+  - Create impactful intelligent systems
+```
+
+---
+
+## 🌐 SYSTEM_TRAIT
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Mindset-Builder-00F7FF?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Focus-Real--World%20Impact-0A0A0A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Vibe-Cyberpunk-FF00FF?style=for-the-badge"/>
+</p>
+
+---
+
+<p align="center">
+  <i>⚡ "If it moves, I’ll automate it. If it doesn’t, I’ll make it move."</i>
+</p>
 ---
 
 # ⚡ Tech Stack
