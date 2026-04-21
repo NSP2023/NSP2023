@@ -5,7 +5,7 @@
 
 <!-- 👾 TYPING INTRO -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Future+Robot+Researcher+🤖;Frontend+Developer+💻;AI+%2B+Hardware+Explorer+⚡;I+build+things+that+move+🚀"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=22&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Future+Robot+Researcher+;Frontend+Developer+;AI+%2B+Hardware+Explorer+;I+build+things+that+move+"/>
 </p>
 
 ---
