@@ -32,49 +32,6 @@
 
 ---
 
-# Featured Projects
-
-### 🧠 Reality-Check AI (Deepfake Detection)
-> AI-powered system to detect manipulated media and identify deepfakes  
-> Focused on real-world misinformation and digital safety  
-
----
-
-### 💻 Frontend Development Coursework
-> Collection of responsive UI projects using modern web technologies  
-> Focus on clean design, usability, and component-based architecture  
-
----
-
-### 🏏 Cricket Simulator
-> Unreal Engine-based cricket game with core gameplay mechanics  
-> Interactive physics + gameplay logic implementation  
-
----
-
-### ⚙️  Donation Management System
-> Platform for distributing food & goods efficiently  
-> Designed for real-world social impact  
-
----
-
-### 🔍 Missing Person Finder
-> JavaFX-based application for locating missing individuals  
-> Includes data tracking and search functionality  
-
----
-
-### ⏱️ Pomodoro Timer
-> Smart productivity timer with dynamic UI and session control  
-
----
-
-### 🤖 Arduino Robotics
-> Embedded system experiments where software interacts with hardware  
-> Real-world motion, sensors, and control systems  
-
----
-
 # 📊 GitHub Analytics
 
 <p align="center">
